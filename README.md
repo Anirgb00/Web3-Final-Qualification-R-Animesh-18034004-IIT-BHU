@@ -3,7 +3,8 @@
 https://shorturi.vercel.app/N4Q_GijSE
 
 Overview
-Official frontend repo of Animesh .finance. Multichain yield farming optimizer.
+Official frontend repo of  Web3-Final-Qualification-R-Animesh-18034004-IIT-BHU
+Public
 
 Env
 Required env vars:
